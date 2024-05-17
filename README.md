@@ -1,1 +1,1 @@
-All Java coded that I practiced
+All Java codes that I practiced
