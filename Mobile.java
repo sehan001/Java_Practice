@@ -15,6 +15,7 @@ public class Mobile {
         obj1.brand="samsung";
 
         Mobile1 obj2=new Mobile1();
+      obj2.Name="not smart";
         obj2.price=600;
         obj2.brand="apple";
 
