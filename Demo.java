@@ -10,5 +10,6 @@ public class Demo   {
     {
         //Reference obj1=new Reference();
         new Reference();
+        System.out.println();
     }
 }
