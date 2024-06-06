@@ -27,7 +27,7 @@ public class demo {
         obj.show();
         obj=new B();
         obj.show();
-        obj=new C();
+//        obj=new C();
         obj.show();
     }
 }
